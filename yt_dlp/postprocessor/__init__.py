@@ -23,6 +23,7 @@ from .ffmpeg import (
     FFmpegVideoConvertorPP,
     FFmpegVideoRemuxerPP,
 )
+from .hongguo import HongguoDecryptPP
 from .metadataparser import (
     MetadataFromFieldPP,
     MetadataFromTitlePP,
